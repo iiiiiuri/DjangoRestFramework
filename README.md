@@ -1,7 +1,7 @@
 # Pilares do Desenvolvimento com Django 🏛️
 
 <p align="center">
-    <img src="markdown/banner.png" width="60%">
+    <img src="markdown/banner.png" width="100%">
 </p>
 
 # Ideia Central Django Rest Framework
