@@ -25,3 +25,9 @@ pip install djangorestframework
 ```
 
 Certifique-se de estar em um ambiente virtual Python adequado ao seu projeto antes de executar este comando.
+
+# Materiais de Apoio 📚
+
+| Material | Nome | Professor |
+| --- | --- | --- |
+| [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/curso-de-django-web-framework-com-python-html-e-css/) | **Curso de Django Web Framework e Django Rest Framework (DRF)** | [Otavio Miranda](https://www.otaviomiranda.com.br/) |
