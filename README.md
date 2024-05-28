@@ -4,6 +4,8 @@
     <img src="markdown/banner.png" width="100%">
 </p>
 
+
+
 # Ideia Central Django Rest Framework
 
  DRF é uma biblioteca criada para adicionar funcionalidades RESTful ao Django. Ele facilita a construção de APIs (Application Programming Interfaces) que podem ser consumidas por clientes como aplicativos móveis ou aplicações frontend em JavaScript, como ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white).
